@@ -2,6 +2,7 @@
 Global Game Jam 2025 project
 
 Did you hear what happened to Luca Brasi?
+
 https://github.com/user-attachments/assets/e797c4bf-c6c3-4f3a-8d5b-2d60ab9b4148
 
 You can imagine the meeting with your friend, not for the sake of dealing with some problem or aim. Just play and talk about some empty things that don't matter. But those moments matter a lot.
